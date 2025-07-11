@@ -1,5 +1,7 @@
 # Store Inventory Demand Analysis & Optimization
 
+![Project Banner](./Premium%20Vector%20_%20Hotel%20in%20the%20city%20buildings%20landscape%20view%20vector%20illustration%20in%20flat%20cartoon.jpg)
+
 This project presents a comprehensive solution to manage inventory risk and optimize operational performance using data-driven forecasting, real-time monitoring, and automated decision systems. Though focused on the healthcare supply chain, the approach and techniques are directly applicable to risk management, credit strategy, and portfolio monitoring in digital lending.
 
 ---
@@ -79,3 +81,4 @@ Random Forest demonstrated strong predictive power and robustness to outliers, s
 - Extend real-time alerting and segmentation to customer-level decisioning — enabling lending strategy A/B testing or credit line reassignment.
 
 ---
+
