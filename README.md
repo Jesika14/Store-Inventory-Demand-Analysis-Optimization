@@ -1,5 +1,4 @@
 # Store Inventory Demand Analysis & Optimization
-![Project Banner](https://raw.githubusercontent.com/Jesika14/Store-Inventory-Demand-Analysis-Optimization/main/project-banner.jpg)
 
 
 This project presents a comprehensive solution to manage inventory risk and optimize operational performance using data-driven forecasting, real-time monitoring, and automated decision systems. Though focused on the healthcare supply chain, the approach and techniques are directly applicable to risk management, credit strategy, and portfolio monitoring in digital lending.
